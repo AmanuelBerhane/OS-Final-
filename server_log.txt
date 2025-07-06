@@ -1,0 +1,65 @@
+[2025-07-06 14:33:18] Client 1 connected
+[2025-07-06 14:33:18] Client 1: GET / HTTP/1.1
+[2025-07-06 14:33:18] Client 1: Host: localhost:8080
+[2025-07-06 14:33:18] Client 1: Connection: keep-alive
+[2025-07-06 14:33:18] Client 1: sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+[2025-07-06 14:33:18] Client 1: sec-ch-ua-mobile: ?0
+[2025-07-06 14:33:18] Client 1: sec-ch-ua-platform: "Linux"
+[2025-07-06 14:33:18] Client 1: Upgrade-Insecure-Requests: 1
+[2025-07-06 14:33:18] Client 1: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+[2025-07-06 14:33:18] Client 1: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2025-07-06 14:33:18] Client 1: Sec-Fetch-Site: none
+[2025-07-06 14:33:18] Client 1: Sec-Fetch-Mode: navigate
+[2025-07-06 14:33:18] Client 1: Sec-Fetch-User: ?1
+[2025-07-06 14:33:18] Client 1: Sec-Fetch-Dest: document
+[2025-07-06 14:33:18] Client 1: Accept-Encoding: gzip, deflate, br, zstd
+[2025-07-06 14:33:18] Client 1: Accept-Language: en,am;q=0.9
+[2025-07-06 14:33:18] Client 1: Cookie: Webstorm-615586a6=ed2ccf46-6a05-4442-b8db-03f0fd379e1c; Webstorm-615586a7=f33a2853-9e65-45ea-855c-2d6ef3f419c2; Phpstorm-6b8525c2=2e099f89-8497-46c8-aa6a-86a13e653e36
+[2025-07-06 14:33:18] Client 1: 
+[2025-07-06 14:33:18] Client 1 disconnected
+[2025-07-06 14:33:19] Client 2 connected
+[2025-07-06 14:33:19] Client 2: GET / HTTP/1.1
+[2025-07-06 14:33:19] Client 2: Host: localhost:8080
+[2025-07-06 14:33:19] Client 2: Connection: keep-alive
+[2025-07-06 14:33:19] Client 2: Cache-Control: max-age=0
+[2025-07-06 14:33:19] Client 2: sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+[2025-07-06 14:33:19] Client 2: sec-ch-ua-mobile: ?0
+[2025-07-06 14:33:19] Client 2: sec-ch-ua-platform: "Linux"
+[2025-07-06 14:33:19] Client 2: Upgrade-Insecure-Requests: 1
+[2025-07-06 14:33:19] Client 2: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+[2025-07-06 14:33:19] Client 2: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2025-07-06 14:33:19] Client 2: Sec-Fetch-Site: none
+[2025-07-06 14:33:19] Client 2: Sec-Fetch-Mode: navigate
+[2025-07-06 14:33:19] Client 2: Sec-Fetch-User: ?1
+[2025-07-06 14:33:19] Client 2: Sec-Fetch-Dest: document
+[2025-07-06 14:33:19] Client 2: Accept-Encoding: gzip, deflate, br, zstd
+[2025-07-06 14:33:19] Client 2: Accept-Language: en,am;q=0.9
+[2025-07-06 14:33:19] Client 2: Cookie: Webstorm-615586a6=ed2ccf46-6a05-4442-b8db-03f0fd379e1c; Webstorm-615586a7=f33a2853-9e65-45ea-855c-2d6ef3f419c2; Phpstorm-6b8525c2=2e099f89-8497-46c8-aa6a-86a13e653e36
+[2025-07-06 14:33:19] Client 2: 
+[2025-07-06 14:33:19] Client 2 disconnected
+[2025-07-06 14:33:24] Client 3 connected
+[2025-07-06 14:33:24] Client 3: GET / HTTP/1.1
+[2025-07-06 14:33:24] Client 3: Host: localhost:8080
+[2025-07-06 14:33:24] Client 3: Connection: keep-alive
+[2025-07-06 14:33:24] Client 4 connected
+[2025-07-06 14:33:24] Client 3 disconnected
+[2025-07-06 14:33:24] Client 5 connected
+[2025-07-06 14:33:54] Client 4: GET / HTTP/1.1
+[2025-07-06 14:33:54] Client 4: Host: localhost:8080
+[2025-07-06 14:33:54] Client 4: Connection: keep-alive
+[2025-07-06 14:33:54] Client 4: Cache-Control: max-age=0
+[2025-07-06 14:33:54] Client 4: sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+[2025-07-06 14:33:54] Client 4: sec-ch-ua-mobile: ?0
+[2025-07-06 14:33:54] Client 4: sec-ch-ua-platform: "Linux"
+[2025-07-06 14:33:54] Client 4: Upgrade-Insecure-Requests: 1
+[2025-07-06 14:33:54] Client 4: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+[2025-07-06 14:33:54] Client 4: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2025-07-06 14:33:54] Client 4: Sec-Fetch-Site: none
+[2025-07-06 14:33:54] Client 4: Sec-Fetch-Mode: navigate
+[2025-07-06 14:33:54] Client 4: Sec-Fetch-User: ?1
+[2025-07-06 14:33:54] Client 4: Sec-Fetch-Dest: document
+[2025-07-06 14:33:54] Client 4: Accept-Encoding: gzip, deflate, br, zstd
+[2025-07-06 14:33:54] Client 4: Accept-Language: en,am;q=0.9
+[2025-07-06 14:33:54] Client 4: Cookie: Webstorm-615586a6=ed2ccf46-6a05-4442-b8db-03f0fd379e1c; Webstorm-615586a7=f33a2853-9e65-45ea-855c-2d6ef3f419c2; Phpstorm-6b8525c2=2e099f89-8497-46c8-aa6a-86a13e653e36
+[2025-07-06 14:33:54] Client 4: 
+[2025-07-06 14:33:54] Client 4 disconnected
